@@ -3,10 +3,10 @@
 https://dvdhyn.github.io/mod1-challenge/
 
 ## Table of Contents
---User Story
---Acceptance Criteria
---Procedure
---Screenshot
+-User Story
+-Acceptance Criteria
+-Procedure
+-Screenshot
 
 ## User Story
 
