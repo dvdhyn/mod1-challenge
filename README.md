@@ -49,4 +49,4 @@ Here are the steps I took to complete this project (multiple commits were pushed
 11. Submitted challenge on bootcampspot.
 
 ## Screenshot
-![alt text](https://imgur.com/a/Uw8hMIw)
+https://imgur.com/a/Uw8hMIw
