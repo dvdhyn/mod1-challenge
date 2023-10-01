@@ -3,7 +3,7 @@
 https://dvdhyn.github.io/mod1-challenge/
 
 ## Table of Contents
-- (User Story)[https://github.com/dvdhyn/mod1-challenge#user-story]
+- ([User Story]([url](https://github.com/dvdhyn/mod1-challenge#user-story))
 - (Acceptance Criteria)[https://github.com/dvdhyn/mod1-challenge#acceptance-criteria]
 - (Procedure)[https://github.com/dvdhyn/mod1-challenge#procedure]
 - (Screenshot)[https://github.com/dvdhyn/mod1-challenge#screenshot]
