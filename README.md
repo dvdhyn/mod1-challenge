@@ -7,6 +7,7 @@ https://dvdhyn.github.io/mod1-challenge/
 - [Acceptance Criteria]([url](https://github.com/dvdhyn/mod1-challenge#acceptance-criteria))
 - [Procedure]([url](https://github.com/dvdhyn/mod1-challenge#procedure))
 - [Screenshot]([url](https://github.com/dvdhyn/mod1-challenge#screenshot))
+- Source
 ## User Story
 
 ```
@@ -49,3 +50,9 @@ Here are the steps I took to complete this project (multiple commits were pushed
 
 ## Screenshot
 https://imgur.com/a/Uw8hMIw
+
+## Source
+Starter code was downloaded from the "MIA-VIRT-FSF-PT-09-2023-U-LOLC' Repository for students.
+https://git.bootcampcontent.com/University-of-Miami/MIA-VIRT-FSF-PT-09-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge
+'assets' folder and index.html were copied.
+
